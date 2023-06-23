@@ -1,0 +1,8 @@
+numpy==1.23.5
+soundfile==0.12.1
+qt-material==2.14
+pyside6==6.5.0
+moviepy==1.0.3
+librosa==0.9.2
+
+pyinstaller==5.10.1
